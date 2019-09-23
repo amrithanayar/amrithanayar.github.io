@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+.circle {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  font-size:50px;
+  color:#fff;
+  line-height:500px;
+  text-align: center;
+  background: #e6ac00;
+  margin: 0 auto;
+  margin-top: 100px;
+}
