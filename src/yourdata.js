@@ -16,7 +16,7 @@ export default
         abouttext: "I'm a Computer Science student at Loughborough University looking to start a career in the tech industry. I had zero experience with programming before University and now being in final year of an Undergraduate degree ... there is so much more for me to learn but I can say it's something I've grown to be passionate about and has pushed me to pursue a career in technology. More recently I've developed an interest in Artificial Intelligence, of course machine learning has become somewhat of a trend in Computer Science and the past few months I've been exploring it in a research project at University. ",
         aboutImage:"https://source.unsplash.com/JYUSpaLdyrw",
        //Change This To Hide The Image of About Section (True Or False)
-       ShowAboutImage:true,//true or false (Change Here)
+       ShowAboutImage:false,//true or false (Change Here)
        // Change Projects Here 
        projects:[
            {
