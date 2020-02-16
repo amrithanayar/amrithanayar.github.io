@@ -11,17 +11,17 @@ function App() {
   return (
     <div className="App">
       <Navbar></Navbar>
-      <div className="App-header">
+      <div className="App-header clearfix">
       <Header></Header>
       </div>
       
-      <div className='About'>
+      <div className='About clearfix'>
         <About></About>
       </div>
-      <div className='work'>
+      <div className='work clearfix'>
         <Work></Work>
       </div>
-      <div className='contact'>
+      <div className='contact clearfix'>
         <Contact></Contact>
       </div>
     </div>

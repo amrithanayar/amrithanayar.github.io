@@ -30,12 +30,12 @@ export default
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
-                title:'Twitter Account Dataset Collection', //Project Title - Add Your Project Title Here
+                title:'Bot Or No Bot (ML bot detection)', //Project Title - Add Your Project Title Here
                  service:'Source Code (in progress)', // Add Your Service Type Here
                 //Project Image - Add Your Project Image Here
                  imageSrc:"https://source.unsplash.com/FVtG38Cjc_k",
                  //Project URL - Add Your Project Url Here
-                 url:'https://github.com/amrithanayar/WasteNotWantNot'
+                 url:'https://github.com/amrithanayar/BotOrNoBot'
                 }
                     /*
                     If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
